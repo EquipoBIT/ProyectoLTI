@@ -1,5 +1,5 @@
 ---
-name: 💡 User Stories
+name: "\U0001F4A1 User Stories"
 about: User stories are high-level feature descriptions that help define benefit from
   a customer’s perspective.
 title: "[UserStories] As a <user type>, I want <a goal> so that <benefit>"
