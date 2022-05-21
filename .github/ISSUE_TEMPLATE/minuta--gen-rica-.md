@@ -7,9 +7,9 @@ assignees: ''
 
 ---
 
-# Minuta 2022-MM-DD HH:MM
+# Minuta 2022-MM-DD de HH:MM a HH:MM
 ## Temas tratados:
-- tema1
+- tema 1
 - tema 2
 ## Acciones acordadas:
 - [ ] acción 1
