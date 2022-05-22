@@ -16,6 +16,8 @@ assignees: ''
 
 ## Criterios de Aceptación:
   
+## Precondiciones  
+  
 ### Definición de Listo (Definition of Ready)
   Especificar el conjunto de características que una Historia de Usuario debe cumplir para que el Equipo de Desarrollo pueda comprometerse a su entrega, es decir, incluirla en un Sprint Backlog.
   
