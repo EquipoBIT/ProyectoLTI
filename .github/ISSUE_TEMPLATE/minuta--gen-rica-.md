@@ -2,7 +2,7 @@
 name: Minuta (Genérica)
 about: Describe this issue template's purpose here.
 title: Minuta 2022-MM-DD HH:MM
-labels: documentation minuta
+labels: documentation, minuta
 assignees: ''
 
 ---
